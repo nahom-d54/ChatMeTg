@@ -38,4 +38,5 @@ python3 app.py
 ####  Where can I get the api_id and api_hash
 > You can get the api id and hash from [Telegram](https://my.telegram.org)
 
-* try It -> [@nahomd54](https://t.me/nahomd54)
+* try It ->
+<strike><a href="https://t.me/nahomd54">@Nahomd54</a></strike>
